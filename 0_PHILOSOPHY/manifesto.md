@@ -1,3 +1,13 @@
+---
+title: "Urban Alchemy Manifesto"
+summary: "A declaration for the re-enchantment of the civic commons — grounding Urban Alchemy in purpose, problem, response, vision, and ethical commitments."
+version: "1.0.0"
+status: "Draft"
+last_updated: "2025-10-20"
+tags: ["philosophy", "urban-alchemy", "manifesto", "civic-commons", "re-enchantment"]
+---
+
+
 # Urban Alchemy Manifesto  
 *A declaration for the re-enchantment of the civic commons*  
 
