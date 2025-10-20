@@ -7,7 +7,7 @@
 ### 📜 What This Is
 Urban Alchemy is a participatory framework for reclaiming the commons — spiritually, economically, and materially — through play, cooperation, and embodied design.
 
-This Codex serves as a **living constitution**, **technical manual**, and **cultural bible** for the Urban Alchemy ecosystem.  
+This Codex serves as a **living constitution**, **technical manual**, and **cultural bibliograph** for the Urban Alchemy ecosystem.  
 Everything from its mythic roots to its codebase is documented here.
 
 ---
