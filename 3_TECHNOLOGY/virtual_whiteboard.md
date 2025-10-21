@@ -133,7 +133,7 @@ Join a **Miro session**, bring your curiosity, and help **draw the world we’re
 
 ---
 
-**Repository Path:** `/platform/virtual_whiteboard.md`  
+
 **Status:** Active — hosted on Miro  
-**Access Link:** [Join the Board →](https://miro.com/app/dashboard/)  
+**Access Link:** [Join the Board →](https://miro.com/app/board/uXjVJdxKoOs=/ )
 **Linked Systems:** `collective_map.md`, `game_platform.md`, `p2p_rideshare.md`
