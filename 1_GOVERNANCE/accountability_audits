@@ -24,44 +24,37 @@ Audits exist to **illuminate blind spots, celebrate alignment, and catalyze grow
 
 ## I. Principles of Accountability
 
-1. **Transparency** — decisions, resource flows, and governance processes are visible and comprehensible to relevant stakeholders.  
-2. **Reciprocity** — feedback is shared constructively, balancing critique with guidance and acknowledgment.  
-3. **Autonomy** — Patches retain the right to self-govern and accept only the audits or interventions they invite.  
-4. **Integrity** — audits assess alignment with agreed-upon principles, not conformity to arbitrary rules.  
-5. **Iteration** — accountability is cyclical, not punitive; each audit informs learning and adaptation.
+| Principle     | Description |
+|--------------|-------------|
+| Transparency | Decisions, resource flows, and governance processes are visible and comprehensible to relevant stakeholders. |
+| Reciprocity  | Feedback is shared constructively, balancing critique with guidance and acknowledgment. |
+| Autonomy     | Patches retain the right to self-govern and accept only the audits or interventions they invite. |
+| Integrity    | Audits assess alignment with agreed-upon principles, not conformity to arbitrary rules. |
+| Iteration    | Accountability is cyclical, not punitive; each audit informs learning and adaptation. |
 
 ---
 
 ## II. Types of Audits
 
-### 1. Patch-Level Audits
+| Audit Type         | Scope & Participants | Focus Areas | Outcomes |
+|-------------------|-------------------|------------|---------|
+| **Patch-Level**    | Conducted periodically or on-request by internal stewards or community-appointed auditors | - Resource stewardship & sustainability<br>- Cultural alignment & ritual practice<br>- Governance clarity & role effectiveness | Documented locally, shared only if Patch chooses |
+| **Network-Level**  | Conducted by Community Auditors or Central Board representatives, **only when invited** | - System-wide resource circulation & reciprocity<br>- Inter-Patch collaboration & mentorship<br>- Documentation & historical continuity | Shared across network when Patch consents |
 
-- Conducted **periodically** or **on-request** by internal stewards or community-appointed auditors.  
-- Focus on:  
-  - Resource stewardship and sustainability.  
-  - Cultural alignment and ritual practice.  
-  - Governance clarity and role effectiveness.  
-- Outcomes are documented locally, shared only if the Patch chooses.
-
-### 2. Network-Level Audits
-
-- Conducted by Community Auditors or Central Board representatives **only when invited**.  
-- Assess cross-Patch coherence, transparency, and adherence to shared principles.  
-- Focus on:  
-  - System-wide resource circulation and reciprocity.  
-  - Inter-Patch collaboration and mentorship.  
-  - Documentation and historical continuity.  
+> ⚠️ Participation in audits is voluntary; autonomy of each Patch is preserved.
 
 ---
 
 ## III. Audit Process
 
-Each audit follows **four phases**:
+Each audit follows **four phases**, summarized below:
 
-1. **Preparation** — auditors and stewards clarify scope, intentions, and areas of focus.  
-2. **Observation & Data Gathering** — review records, practices, and operations; conduct interviews or participatory sessions.  
-3. **Reflection & Feedback** — synthesize findings into actionable insights, acknowledging strengths and growth opportunities.  
-4. **Integration & Iteration** — Patch or network stewards determine which insights to implement, adjust, or archive; document changes for future reference.
+| Phase                     | Actions |
+|----------------------------|---------|
+| **Preparation**            | Clarify scope, intentions, and areas of focus. |
+| **Observation & Data Gathering** | Review records, practices, and operations; conduct interviews or participatory sessions. |
+| **Reflection & Feedback**  | Synthesize findings into actionable insights; acknowledge strengths and growth opportunities. |
+| **Integration & Iteration** | Determine which insights to implement, adjust, or archive; document changes for future reference. |
 
 > Audits are **not punitive**. They are mirrors, not hammers.
 
@@ -69,22 +62,22 @@ Each audit follows **four phases**:
 
 ## IV. Ritualization of Audits
 
-To reinforce accountability as **civic and somatic practice**:
+Audits incorporate **civic and somatic practices** to reinforce accountability as a living process:
 
-- Begin each audit with a **shared grounding exercise**, connecting participants to the purpose of the review.  
-- Maintain **embodied presence** during interviews and observations: listen deeply, observe without judgment.  
-- Conclude with a **closing reflection**, honoring contributions and summarizing actionable insights.  
-- Archive findings in a living log (`6_APPENDICES/version_history.md` or local Patch archive), preserving transparency and historical integrity.
+- **Shared Grounding Exercise** – Begin by connecting participants to the purpose of the review.  
+- **Embodied Presence** – Listen deeply and observe without judgment.  
+- **Closing Reflection** – Honor contributions and summarize actionable insights.  
+- **Archival Practices** – Document findings in a living log (`6_APPENDICES/version_history.md` or local Patch archive) to preserve transparency and historical integrity.
 
 ---
 
 ## V. Optional Participation & Autonomy
 
 - Patches **may choose** whether to participate in network-level audits.  
-- Participation in audits is **voluntary**, honoring each Patch’s autonomy while fostering trust.  
-- Feedback may be **shared publicly, privately, or partially**, according to the Patch’s discretion.  
+- Participation is **voluntary**, fostering trust while respecting independence.  
+- Feedback can be **shared publicly, privately, or partially**, at the Patch’s discretion.
 
-Autonomy is preserved; the system exists to support, not coerce.
+> Autonomy is preserved; the system exists to support, not coerce.
 
 ---
 
@@ -92,6 +85,6 @@ Autonomy is preserved; the system exists to support, not coerce.
 
 Accountability is a **practice of care**, not control.  
 
-Through audits, Patches and the network gain insight, align action with intention, and reinforce the living integrity of Urban Alchemy.  
+Through audits, Patches and the network gain insight, align action with intention, and reinforce the living integrity of Urban Alchemy.
 
 > *“We are accountable to ourselves, to the commons, and to the pulse of the network — a living reflection of care and integrity.”*
